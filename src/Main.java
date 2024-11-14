@@ -3,6 +3,6 @@ public class Main {
 
         Robot myRobot = new Robot(); //Create a new Robot class object
 
-        myRobot.moveUntilZeroCharge();
+        myRobot.moveUntilZeroCharge(); //Call the moveUntilZeroCharge method in the Robot class
     }
 }
